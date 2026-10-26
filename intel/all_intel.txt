@@ -43,3 +43,81 @@
   📁 classes.dex
 • [Possible Token] <code>WorkConstraintsTracker</code>
   📁 classes.dex
+
+
+================================================================================
+📱 [DEVICE #1] TARGET HARVEST REPORT: c81f4213_jovial.nighthawk.hammer.apk
+🕒 Harvest Time: 2026-10-26 12:20:18
+📦 Package Name: jovial.nighthawk.hammer
+📛 Application Name: COURIER SERVICE
+--------------------------------------------------------------------------------
+
+⚡ DETECTED COMMANDS & DISPATCH CHANNELS:
+• Active Transports: HTTP/HTTPS REST API (OkHttp / HttpURLConnection), Raw TCP Socket (java.net.Socket), SMS Cellular Dispatch
+• Command: "location"               ──► Dispatch via: GPS Location Dispatch
+• Command: "accessibility"          ──► Dispatch via: Accessibility Event Listener / Auto-Click
+• Command: "shell"                  ──► Dispatch via: Shell Command Execution (Runtime.exec)
+• Command: "exec"                   ──► Dispatch via: Native Command Execution
+• Command: "lock"                   ──► Dispatch via: Device Lock Trigger
+• Command: "ping"                   ──► Dispatch via: C2 Heartbeat / Keepalive Ping
+• Command: "pong"                   ──► Dispatch via: C2 Heartbeat Response
+• Command: "register"               ──► Dispatch via: Bot Device Registration
+• Command: "notification"           ──► Dispatch via: Notification Interception Listener
+• Command: "action_notify"          ──► Dispatch via: Broadcast Intent Action Handler
+
+🛡️ SENSITIVE FUNCTIONS & REQUIRED PERMISSIONS:
+• Function: AccessibilityService.dispatchGesture   ──► Permission: android.permission.BIND_ACCESSIBILITY_SERVICE
+• Function: AccessibilityService.onAccessibilityEvent ──► Permission: android.permission.BIND_ACCESSIBILITY_SERVICE
+• Function: AudioRecord.startRecording             ──► Permission: android.permission.RECORD_AUDIO
+• Function: ContactsContract.query                 ──► Permission: android.permission.READ_CONTACTS
+• Function: HttpURLConnection.connect              ──► Permission: android.permission.INTERNET
+• Function: LocationManager.requestLocationUpdates ──► Permission: android.permission.ACCESS_FINE_LOCATION
+• Function: MediaProjection.createVirtualDisplay   ──► Permission: android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+• Function: MediaProjectionManager.getMediaProjection ──► Permission: android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+• Function: OkHttpClient.newCall                   ──► Permission: android.permission.INTERNET
+• Function: PackageManager.getInstalledApplications ──► Permission: android.permission.QUERY_ALL_PACKAGES
+• Function: PackageManager.getInstalledPackages    ──► Permission: android.permission.QUERY_ALL_PACKAGES
+• Function: ProcessBuilder.start                   ──► Permission: SYSTEM / SHELL_EXEC
+• Function: SmsInbox.read                          ──► Permission: android.permission.READ_SMS
+• Function: SmsManager.sendTextMessage             ──► Permission: android.permission.SEND_SMS
+• Function: TelephonyManager.getDeviceId           ──► Permission: android.permission.READ_PHONE_STATE
+• Function: TelephonyManager.getNetworkOperatorName ──► Permission: android.permission.ACCESS_NETWORK_STATE
+• Function: java.net.Socket.connect                ──► Permission: android.permission.INTERNET
+
+📋 ALL DECLARED PERMISSIONS (25):
+• android.permission.ACCESS_NETWORK_STATE
+• android.permission.ANSWER_PHONE_CALLS
+• android.permission.CALL_PHONE
+• android.permission.CAMERA
+• android.permission.FLASHLIGHT
+• android.permission.FOREGROUND_SERVICE
+• android.permission.FOREGROUND_SERVICE_DATA_SYNC
+• android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+• android.permission.INTERNET
+• android.permission.MANAGE_EXTERNAL_STORAGE
+• android.permission.POST_NOTIFICATIONS
+• android.permission.READ_CALL_LOG
+• android.permission.READ_EXTERNAL_STORAGE
+• android.permission.READ_PHONE_NUMBERS
+• android.permission.READ_SMS
+• android.permission.RECEIVE_BOOT_COMPLETED
+• android.permission.RECEIVE_MMS
+• android.permission.RECORD_AUDIO
+• android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+• android.permission.SEND_SMS
+• android.permission.WAKE_LOCK
+• android.permission.WRITE_EXTERNAL_STORAGE
+• com.android.alarm.permission.SET_ALARM
+• jovial.nighthawk.hammer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+• jovial.nighthawk.hammer.permission.TDOS_DIAGNOSE_BROADCAST
+
+🔑 EXTRACTED KEYS & SECRETS (8):
+• [Possible Token] StorageNotLowTracker [classes.dex]
+• [Possible Token] BrdcstRcvrCnstrntTrckr [classes.dex]
+• [Possible Hash/Key] 7d73d21f1bd82c9e5268b6dcf9fde2cb [classes.dex]
+• [Possible Token] 7d73d21f1bd82c9e5268b6dcf9fde2cb [classes.dex]
+• [Possible Token] BatteryNotLowTracker [classes.dex]
+• [Possible Token] handleFatalException [classes.dex]
+• [Possible Token] NetworkNotRoamingCtrlr [classes.dex]
+• [Possible Token] WorkConstraintsTracker [classes.dex]
+================================================================================
