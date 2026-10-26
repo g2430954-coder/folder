@@ -1,0 +1,7 @@
+📱 <b>APK Analysis: b34e1aef_cactus.fortress.oxygen.apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.htc.intent.action.QUICKBOOT_POWERON</code>
+📛 App: <code>Hang Up</code>
+
+🔗 <b>Firebase/API URLs: 1</b>
+• <code>https://play.google.com/store</code>
