@@ -1,0 +1,9 @@
+📱 <b>APK Analysis: 60b9e2a7_app-release-1.0.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Dialog Icon</code>
+
+🔑 <b>Keys Found: 2</b>
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
