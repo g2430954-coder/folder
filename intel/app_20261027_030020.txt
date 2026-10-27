@@ -1,0 +1,29 @@
+📱 <b>APK Analysis: ef06972c_cactus.emberly.teacher.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Hang Up</code>
+
+🔑 <b>Keys Found: 12</b>
+• [Possible Hash/Key] <code>86254750241babac4b8d52996a675549</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>86254750241babac4b8d52996a675549</code>
+  📁 classes.dex
+• [Possible Token] <code>BatteryNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>BrdcstRcvrCnstrntTrckr</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkConstraintsTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkForegroundRunnable</code>
+  📁 classes.dex
+• [Possible Token] <code>Y2e0Y2f0Y1g0Y0h0Y1i0</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkRequestCompat</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkNotRoamingCtrlr</code>
+  📁 classes.dex
+• [Possible Token] <code>StorageNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>UnfinishedWorkListener</code>
+  📁 classes.dex
