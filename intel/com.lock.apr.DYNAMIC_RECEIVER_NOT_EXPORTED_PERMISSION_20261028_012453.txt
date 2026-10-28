@@ -1,0 +1,12 @@
+📱 <b>APK Analysis: f58bc51b_decrypted.apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.lock.apr.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</code>
+📛 App: <code>Aktuelle Auswahl</code>
+
+🔑 <b>Keys Found: 3</b>
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
