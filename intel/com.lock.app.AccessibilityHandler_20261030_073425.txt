@@ -1,0 +1,12 @@
+📱 <b>APK Analysis: 99428e92_Sexy_Girls_v2.0(2)_src_mod_sign.apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.lock.app.AccessibilityHandler</code>
+📛 App: <code>Hang Up</code>
+
+🔑 <b>Keys Found: 3</b>
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
