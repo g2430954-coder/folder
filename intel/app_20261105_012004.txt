@@ -1,0 +1,25 @@
+📱 <b>APK Analysis: 089a15e2_Tether_source.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 10</b>
+• [Possible Hash/Key] <code>3a2cacdacab3c5a04b99c18dad0b485672268b9c4213f04523</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>decodeFromSavedState</code>
+  📁 classes.dex
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Possible Token] <code>buildClassSerialDescriptor</code>
+  📁 classes.dex
+• [Possible Token] <code>PrimitiveSerialDescriptor</code>
+  📁 classes.dex
+• [Possible Token] <code>consumeRestoredStateForKey</code>
+  📁 classes.dex
