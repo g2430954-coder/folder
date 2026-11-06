@@ -1,0 +1,7 @@
+📱 <b>APK Analysis: 55cc5734_market.bamboo.welcome.apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.google.android.gms.ads.flag.NATIVE_AD_DEBUGGER_ENABLED</code>
+📛 App: <code>Weitere Optionen</code>
+
+🔗 <b>Firebase/API URLs: 1</b>
+• <code>https://play.google.com/store</code>
