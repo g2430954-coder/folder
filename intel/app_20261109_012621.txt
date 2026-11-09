@@ -1,0 +1,15 @@
+📱 <b>APK Analysis: 6b2fbe7b_dApp.binance.Trading.Signals_custom.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>PM AWAS YOJNA</code>
+
+🔑 <b>Keys Found: 5</b>
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDx_eMIWd5fMKWS82mRRRFexxC9hGK-X9U</code>
+  📁 resources.arsc
