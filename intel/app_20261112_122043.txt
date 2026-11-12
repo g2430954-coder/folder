@@ -1,0 +1,13 @@
+📱 <b>APK Analysis: ba1b34c0_ghost.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 4</b>
+• [Possible Hash/Key] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>915e6e705300e1c95c8c8a3b8fd4175c2d81c5e30ac5a1c8b0</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
