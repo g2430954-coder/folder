@@ -1,0 +1,7 @@
+📱 <b>APK Analysis: 2cdd7355_ready.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Jio KYC Update</code>
+
+🔑 <b>Keys Found: 1</b>
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
