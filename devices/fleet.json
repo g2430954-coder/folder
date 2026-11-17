@@ -1,0 +1,31 @@
+{
+  "dev-f2960576": {
+    "device_id": "dev-f2960576",
+    "token": "7aroCNToZ9iWQsJNEO_ZRYrSW46Lz4xvID-uOamzo5E",
+    "model": "Pixel 8 Pro Enterprise",
+    "os_version": "Android 14",
+    "enrolled_at": "2026-11-16T08:55:54.031316+00:00",
+    "last_seen": "2026-11-16T08:55:54.047624+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": true,
+      "CAMERA": true
+    },
+    "battery_level": 89.0,
+    "compliance": "non-compliant",
+    "status": "active"
+  },
+  "apk-app": {
+    "device_id": "apk-app",
+    "model": "Hang Up",
+    "os_version": "Android (Uploaded APK)",
+    "enrolled_at": "2026-11-17T14:56:49.477624+00:00",
+    "last_seen": "2026-11-17T14:56:49.477624+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": false,
+      "CAMERA": false
+    },
+    "battery_level": 100.0,
+    "compliance": "compliant",
+    "status": "active"
+  }
+}
