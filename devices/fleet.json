@@ -27,5 +27,19 @@
     "battery_level": 100.0,
     "compliance": "compliant",
     "status": "active"
+  },
+  "apk-com_simplemobile": {
+    "device_id": "apk-com_simplemobile",
+    "model": "Hang Up",
+    "os_version": "Android (Uploaded APK)",
+    "enrolled_at": "2026-11-17T16:01:27.583795+00:00",
+    "last_seen": "2026-11-17T16:01:27.583795+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": false,
+      "CAMERA": false
+    },
+    "battery_level": 100.0,
+    "compliance": "compliant",
+    "status": "active"
   }
 }
