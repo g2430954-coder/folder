@@ -1,0 +1,16 @@
+📱 <b>APK Analysis: 98d57f91_rto challan.apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.google.firebase.components.ComponentDiscoveryService</code>
+📛 App: <code>RTO CHALAN</code>
+
+🔑 <b>Keys Found: 5</b>
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyCswtfbbFKaJ6Wflssb3bVdrA3KAenpB4A</code>
+  📁 resources.arsc
