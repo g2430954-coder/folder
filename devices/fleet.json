@@ -47,13 +47,13 @@
     "model": "Hang Up",
     "os_version": "Android (Uploaded APK)",
     "enrolled_at": "2026-11-17T18:51:57.382001+00:00",
-    "last_seen": "2026-11-17T18:51:57.382001+00:00",
+    "last_seen": "2026-11-18T02:58:58.527922+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
-      "CAMERA": false
+      "CAMERA": true
     },
-    "battery_level": 100.0,
-    "compliance": "compliant",
+    "battery_level": 98.0,
+    "compliance": "non-compliant",
     "status": "active"
   }
 }
