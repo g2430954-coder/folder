@@ -1,0 +1,44 @@
+📱 <b>APK Analysis: ecf54874_base.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Manage Site</code>
+
+🔥 <b>Firebase Config:</b>
+
+📄 <b>res/raw/firebase_common_keep.xml:</b>
+• project_id: <code>/</code>
+
+🔑 <b>Keys Found: 65</b>
+• [Possible Hash/Key] <code>16d96924dadd598277269025e52fb3ce</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>23b424cc2ee2f478ba4791a39d826c33</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>26bea7fdae43feeb15d4d11c1cd18d8b</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>34a3d0f90ec50006704e977999bc525b</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>448ff8bc2bfc40823a4789d3bab6babe</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>4af472ceba8119f727587e1d81496cd9</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>50fc139d6c76f2a0c5a5fbcdc0a901d9</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>55398c71f7c5005441887493ce40d5fa</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>5b4408c1f54309bbbded5b3c31891fd7</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>6d989fe02e513c8dc3901e4f9a4f3b88</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>76c9aec990bce949c74f79ef62978f2d</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>86254750241babac4b8d52996a675549</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>8a769f86638077f95235f296aaeacf08</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>a5425f6fc4e8d9b3635923705c9b5165</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>a673d61cd2da079af365881aae2754de</code>
+  📁 classes.dex
+
+🔗 <b>Firebase/API URLs: 2</b>
+• <code>https://www.google.com/m</code>
+• <code>https://clients1.google.com/complete/search</code>
