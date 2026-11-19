@@ -56,12 +56,12 @@
     "compliance": "non-compliant",
     "status": "active"
   },
-  "apk-com_google_fireb": {
-    "device_id": "apk-com_google_fireb",
-    "model": "Google Play",
+  "apk-com_idfc_frist_b": {
+    "device_id": "apk-com_idfc_frist_b",
+    "model": "IDFC Bank Card",
     "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-18T12:07:28.133390+00:00",
-    "last_seen": "2026-11-18T12:07:28.133390+00:00",
+    "enrolled_at": "2026-11-19T13:59:09.584802+00:00",
+    "last_seen": "2026-11-19T13:59:09.584802+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
       "CAMERA": false
