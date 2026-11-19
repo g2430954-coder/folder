@@ -1,0 +1,8 @@
+📱 <b>APK Analysis: 0d1d61ac_Posma-4.0.apk</b>
+━━━━━━━━━━━━━━━
+
+🔑 <b>Keys Found: 2</b>
+• [Possible Hash/Key] <code>facedf41bbd28b563d1e9e09c5f72d7c5ca598d5</code>
+  📁 classes.dex
+• [Possible Token] <code>facedf41bbd28b563d1e9e09c5f72d7c5ca598d5</code>
+  📁 classes.dex
