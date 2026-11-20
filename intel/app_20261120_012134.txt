@@ -1,0 +1,21 @@
+📱 <b>APK Analysis: 79a90108_output.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Indian Bank Credit Card</code>
+
+🔑 <b>Keys Found: 8</b>
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>NavigationEventHistory</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyCClYhcuXI-KNXmoBGxm-S8nE71dD4ZxtI</code>
+  📁 resources.arsc
