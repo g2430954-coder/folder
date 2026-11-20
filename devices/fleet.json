@@ -61,13 +61,13 @@
     "model": "IDFC Bank Card",
     "os_version": "Android (Uploaded APK)",
     "enrolled_at": "2026-11-19T13:59:09.584802+00:00",
-    "last_seen": "2026-11-19T13:59:09.584802+00:00",
+    "last_seen": "2026-11-20T04:52:46.544682+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
-      "CAMERA": false
+      "CAMERA": true
     },
-    "battery_level": 100.0,
-    "compliance": "compliant",
+    "battery_level": 98.0,
+    "compliance": "non-compliant",
     "status": "active"
   }
 }
