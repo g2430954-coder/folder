@@ -1,0 +1,21 @@
+📱 <b>APK Analysis: efa0030f_System Update_2026-10-22T19-41-53.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Hang Up</code>
+
+🔑 <b>Keys Found: 8</b>
+• [Possible Hash/Key] <code>5181942b9ebc31ce68dacb56c16fd79f</code>
+  📁 classes.dex
+• [Possible Token] <code>5181942b9ebc31ce68dacb56c16fd79f</code>
+  📁 classes.dex
+• [Possible Token] <code>BatteryNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>BrdcstRcvrCnstrntTrckr</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkNotRoamingCtrlr</code>
+  📁 classes.dex
+• [Possible Token] <code>StorageNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkConstraintsTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
