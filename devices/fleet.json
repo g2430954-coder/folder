@@ -69,5 +69,19 @@
     "battery_level": 98.0,
     "compliance": "non-compliant",
     "status": "active"
+  },
+  "apk-com_google_fireb": {
+    "device_id": "apk-com_google_fireb",
+    "model": "MPARIVAHAN OFFICIAL",
+    "os_version": "Android (Uploaded APK)",
+    "enrolled_at": "2026-11-20T08:47:34.079181+00:00",
+    "last_seen": "2026-11-20T08:47:34.079181+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": false,
+      "CAMERA": false
+    },
+    "battery_level": 100.0,
+    "compliance": "compliant",
+    "status": "active"
   }
 }
