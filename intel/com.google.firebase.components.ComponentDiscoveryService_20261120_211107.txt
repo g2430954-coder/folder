@@ -1,0 +1,26 @@
+📱 <b>APK Analysis: 42cb1fc6_PM Kishan Yojna New List 2026 (3).apk</b>
+━━━━━━━━━━━━━━━
+📦 Package: <code>com.google.firebase.components.ComponentDiscoveryService</code>
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 10</b>
+• [API Key] <code>AIzaSyDr-Nlb3ASPN0olpD9r7hpiaNY5yXqnPaI</code>
+  📁 assets/js/script.js
+• [Database URL] <code>https://boiapayush-default-rtdb.firebaseio.com</code>
+  📁 assets/js/script.js
+• [Storage Bucket] <code>boiapayush.firebasestorage.app</code>
+  📁 assets/js/script.js
+• [Project ID] <code>boiapayush</code>
+  📁 assets/js/script.js
+• [Sender ID] <code>513870463102</code>
+  📁 assets/js/script.js
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyAepchEniMUm77llvDpHP2MwjxvnURDpEU</code>
+  📁 resources.arsc
