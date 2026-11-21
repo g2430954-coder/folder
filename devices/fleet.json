@@ -84,12 +84,12 @@
     "compliance": "compliant",
     "status": "active"
   },
-  "apk-com_Flirt_X_VCha": {
-    "device_id": "apk-com_Flirt_X_VCha",
-    "model": "Google Play",
+  "apk-com_wishes_diwal": {
+    "device_id": "apk-com_wishes_diwal",
+    "model": "Diwali Wishes",
     "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-21T06:10:41.942831+00:00",
-    "last_seen": "2026-11-21T06:10:41.942831+00:00",
+    "enrolled_at": "2026-11-21T10:34:04.097960+00:00",
+    "last_seen": "2026-11-21T10:34:04.097960+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
       "CAMERA": false
