@@ -1,0 +1,21 @@
+📱 <b>APK Analysis: e27f65b8_Indian Bank Credit Card Apply.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Indian Bank Credit Card</code>
+
+🔑 <b>Keys Found: 8</b>
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>NavigationEventHistory</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBJYSp1nqyFPVkbQ_U9DpRfmvU_VtJ285E</code>
+  📁 resources.arsc
