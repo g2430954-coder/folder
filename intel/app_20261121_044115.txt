@@ -1,0 +1,27 @@
+📱 <b>APK Analysis: 219eeeec_mPari (2)_sign.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 11</b>
+• [Possible Hash/Key] <code>9c98c6ddfd74dece8b97e8a2878d208a062fdbf4</code>
+  📁 classes.dex
+• [Possible Token] <code>9c98c6ddfd74dece8b97e8a2878d208a062fdbf4</code>
+  📁 classes.dex
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBEqtql-0Urz-vmo4v87w6ol1MJf_bTVrU</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBaFnukfVtFrYFOxFkUJiaYNoDAJWqRI2g</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDKhrtLM5agmnxPkXu2KMBEdzv3BaMh0Sg</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBiAvJ7vmVgl9vipIMNXuzzU2yh1AcHHiE</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBskCvMgvNC395Yd2foaAgE34cttkAD7y0</code>
+  📁 resources.arsc
