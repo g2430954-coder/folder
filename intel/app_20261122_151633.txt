@@ -1,0 +1,7 @@
+📱 <b>APK Analysis: 15644db1_DesiTales_build_d09e126a746546cd.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 1</b>
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
