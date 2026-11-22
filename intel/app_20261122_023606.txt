@@ -1,0 +1,29 @@
+📱 <b>APK Analysis: 540fe9f7_SexyTalk_riyadeepprandi_282255c8.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Google Play</code>
+
+🔑 <b>Keys Found: 12</b>
+• [Possible Hash/Key] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
+• [Possible Hash/Key] <code>cdc945c5166e1c45af87dbeb5a1c4cf1</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
+• [Possible Token] <code>cdc945c5166e1c45af87dbeb5a1c4cf1</code>
+  📁 classes.dex
+• [Possible Token] <code>BatteryNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>BrdcstRcvrCnstrntTrckr</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkNotRoamingCtrlr</code>
+  📁 classes.dex
+• [Possible Token] <code>StorageNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkConstraintsTracker</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDH-MOj45NaOlpVXA9K7ir4whzCrxyHYdk</code>
+  📁 resources.arsc
