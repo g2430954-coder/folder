@@ -1,0 +1,31 @@
+📱 <b>APK Analysis: 0ec82ff1_Indian Bank Credit Card_11.0.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Indian Bank Credit Card</code>
+
+🔑 <b>Keys Found: 13</b>
+• [Possible Token] <code>horizontalChainStyle</code>
+  📁 classes.dex
+• [Possible Token] <code>mBarrierAllowsGoneWidgets</code>
+  📁 classes.dex
+• [Possible Token] <code>itemActionViewLayout</code>
+  📁 classes.dex
+• [Possible Token] <code>NavigationEventHistory</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyA_PGHO-zdRxoHsegzxB_WNXh7YG0kuQzw</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyCfF1tKlWb3lJTCabluxYnEh_NFOi1russ</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyB5CnoIOFKiKSbnWaR_NiHP14JlQZHR6ps</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDKLKoSu6rPfe6osGerXMsZWjFUBvfe3QI</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDD08oeWT4vPxxSCh0YyohkoUVRG9ARFwU</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBYOX7ML8XOTClN3jOooC72VBpqOufMgYY</code>
+  📁 resources.arsc
