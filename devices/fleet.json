@@ -75,35 +75,21 @@
     "model": "MPARIVAHAN OFFICIAL",
     "os_version": "Android (Uploaded APK)",
     "enrolled_at": "2026-11-20T08:47:34.079181+00:00",
-    "last_seen": "2026-11-20T08:47:34.079181+00:00",
+    "last_seen": "2026-11-22T15:12:57.566171+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
-      "CAMERA": false
+      "CAMERA": true
     },
-    "battery_level": 100.0,
-    "compliance": "compliant",
+    "battery_level": 98.0,
+    "compliance": "non-compliant",
     "status": "active"
   },
-  "apk-com_wishes_diwal": {
-    "device_id": "apk-com_wishes_diwal",
-    "model": "Diwali Wishes",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-21T10:34:04.097960+00:00",
-    "last_seen": "2026-11-21T10:34:04.097960+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": false
-    },
-    "battery_level": 100.0,
-    "compliance": "compliant",
-    "status": "active"
-  },
-  "apk-com_wallpaper_li": {
-    "device_id": "apk-com_wallpaper_li",
+  "apk-com_Flirt_X_VCha": {
+    "device_id": "apk-com_Flirt_X_VCha",
     "model": "Google Play",
     "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-21T10:51:47.626794+00:00",
-    "last_seen": "2026-11-21T10:51:47.626794+00:00",
+    "enrolled_at": "2026-11-21T06:10:41.942831+00:00",
+    "last_seen": "2026-11-21T06:10:41.942831+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
       "CAMERA": false
