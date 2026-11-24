@@ -1,101 +1,16 @@
 {
-  "dev-f2960576": {
-    "device_id": "dev-f2960576",
-    "token": "7aroCNToZ9iWQsJNEO_ZRYrSW46Lz4xvID-uOamzo5E",
-    "model": "Pixel 8 Pro Enterprise",
-    "os_version": "Android 14",
-    "enrolled_at": "2026-11-16T08:55:54.031316+00:00",
-    "last_seen": "2026-11-16T08:55:54.047624+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": true,
-      "CAMERA": true
-    },
-    "battery_level": 89.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
   "apk-app": {
     "device_id": "apk-app",
-    "model": "Hang Up",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-17T14:56:49.477624+00:00",
-    "last_seen": "2026-11-18T02:59:08.000513+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
-  "apk-com_simplemobile": {
-    "device_id": "apk-com_simplemobile",
-    "model": "Hang Up",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-17T16:01:27.583795+00:00",
-    "last_seen": "2026-11-18T02:59:16.187279+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
-  "apk-com_video_showti": {
-    "device_id": "apk-com_video_showti",
-    "model": "Hang Up",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-17T18:51:57.382001+00:00",
-    "last_seen": "2026-11-18T02:58:58.527922+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
-  "apk-com_idfc_frist_b": {
-    "device_id": "apk-com_idfc_frist_b",
-    "model": "IDFC Bank Card",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-19T13:59:09.584802+00:00",
-    "last_seen": "2026-11-20T04:52:46.544682+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
-  "apk-com_google_fireb": {
-    "device_id": "apk-com_google_fireb",
-    "model": "MPARIVAHAN OFFICIAL",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-20T08:47:34.079181+00:00",
-    "last_seen": "2026-11-22T15:12:59.601106+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
-  "apk-com_Flirt_X_VCha": {
-    "device_id": "apk-com_Flirt_X_VCha",
     "model": "Google Play",
     "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-21T06:10:41.942831+00:00",
-    "last_seen": "2026-11-22T15:13:04.135562+00:00",
+    "enrolled_at": "2026-11-24T09:09:28.612232+00:00",
+    "last_seen": "2026-11-24T09:09:28.612232+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
+      "CAMERA": false
     },
-    "battery_level": 98.0,
-    "compliance": "non-compliant",
+    "battery_level": 100.0,
+    "compliance": "compliant",
     "status": "active"
   }
 }
