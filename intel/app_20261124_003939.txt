@@ -1,0 +1,42 @@
+📱 <b>APK Analysis: dca26479_app_signed_12thnov.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Side Sheet</code>
+
+🔥 <b>Firebase Config:</b>
+• project_id: <code>thnov-84a71</code>
+• project_number: <code>567920313967</code>
+• firebase_url: <code>https://thnov-84a71-default-rtdb.firebaseio.com</code>
+• storage_bucket: <code>thnov-84a71.firebasestorage.app</code>
+• api_key: <code>AIzaSyBmwYHvuaFIFp-LDV0-jFuxT7MBqEnFcW8</code>
+• mobilesdk_app_id: <code>1:567920313967:android:2e9b04fd548b38f0912f9a</code>
+
+📄 <b>android_client_info:</b>
+• package_name: <code>twevehnov.com</code>
+
+🔑 <b>Keys Found: 13</b>
+• [Storage Bucket] <code>thnov-84a71.firebasestorage.app</code>
+  📁 assets/google-services.json
+• [Project ID] <code>thnov-84a71</code>
+  📁 assets/google-services.json
+• [Possible Hash/Key] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>7d73d21f1bd82c9e5268b6dcf9fde2cb</code>
+  📁 classes.dex
+• [Possible Token] <code>BatteryNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>BrdcstRcvrCnstrntTrckr</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkNotRoamingCtrlr</code>
+  📁 classes.dex
+• [Possible Token] <code>StorageNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkConstraintsTracker</code>
+  📁 classes.dex
+• [Firebase URL] <code>firebaseio.com</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyBmwYHvuaFIFp-LDV0-jFuxT7MBqEnFcW8</code>
+  📁 resources.arsc
+• [Google API Key] <code>AIzaSyDKjf7im6VB-AQspdhjgTEAPajLysJ32cM</code>
+  📁 resources.arsc
