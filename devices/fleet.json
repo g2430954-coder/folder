@@ -12,5 +12,22 @@
     "battery_level": 92.0,
     "compliance": "compliant",
     "status": "active"
+  },
+  "dev-d36a1d67": {
+    "device_id": "dev-d36a1d67",
+    "token": "gJzM41-4wIz5ujgWv7fqWxuNRVaZR99hR-xtfNSUg3o",
+    "model": "Pixel 8 Pro Enterprise",
+    "os_version": "Android 14",
+    "enrolled_at": "2026-11-25T04:24:16.933507+00:00",
+    "last_seen": "2026-11-25T04:24:16.933507+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": true,
+      "CAMERA": true,
+      "POST_NOTIFICATIONS": true,
+      "READ_SMS": true
+    },
+    "battery_level": 95.0,
+    "compliance": "non-compliant",
+    "status": "active"
   }
 }
