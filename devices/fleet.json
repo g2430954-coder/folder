@@ -1,23 +1,14 @@
 {
-  "apk-app": {
-    "device_id": "apk-app",
-    "model": "Google Play",
-    "os_version": "Android (Uploaded APK)",
-    "enrolled_at": "2026-11-24T09:09:28.612232+00:00",
-    "last_seen": "2026-11-25T15:50:40.300701+00:00",
-    "permissions_status": {
-      "ACCESS_FINE_LOCATION": false,
-      "CAMERA": true
-    },
-    "battery_level": 90.0,
-    "compliance": "non-compliant",
-    "status": "active"
-  },
   "dev-d36a1d67": {
     "device_id": "dev-d36a1d67",
     "token": "gJzM41-4wIz5ujgWv7fqWxuNRVaZR99hR-xtfNSUg3o",
     "model": "Pixel 8 Pro Enterprise",
     "os_version": "Android 14",
+    "phone_number": "+1-415-555-0182",
+    "imei": "864920048192841",
+    "sim_operator": "Verizon Wireless",
+    "installed_apk": "com.mdm.fleet.agent",
+    "ip_address": "192.168.1.105",
     "enrolled_at": "2026-11-25T04:24:16.933507+00:00",
     "last_seen": "2026-11-25T04:24:16.933507+00:00",
     "permissions_status": {
@@ -28,23 +19,70 @@
     },
     "battery_level": 95.0,
     "compliance": "non-compliant",
-    "status": "active"
+    "status": "active",
+    "sms_inbox": [
+      {
+        "id": "sms-1001",
+        "from": "+1-800-555-0199",
+        "body": "Your bank verification code is 849201. Valid for 10 minutes.",
+        "timestamp": "2026-11-25T15:45:10+00:00"
+      },
+      {
+        "id": "sms-1002",
+        "from": "GOOGLE",
+        "body": "Security Alert: New sign-in on Pixel 8 Pro.",
+        "timestamp": "2026-11-25T14:20:00+00:00"
+      }
+    ]
   },
   "dev-b9080080": {
     "device_id": "dev-b9080080",
     "token": "vCO-EFW_Gg4rK5hPIjS2QhAYUAqPIFnyWuiESjFMQFQ",
-    "model": "Pixel 8 Pro Enterprise",
+    "model": "Galaxy S24 Ultra",
     "os_version": "Android 14",
+    "phone_number": "+1-212-555-0144",
+    "imei": "358920109482715",
+    "sim_operator": "T-Mobile US",
+    "installed_apk": "com.sec.android.fleet",
+    "ip_address": "10.0.0.42",
     "enrolled_at": "2026-11-25T04:24:18.452640+00:00",
     "last_seen": "2026-11-25T04:24:18.452640+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": true,
-      "CAMERA": true,
+      "CAMERA": false,
       "POST_NOTIFICATIONS": true,
       "READ_SMS": true
     },
-    "battery_level": 95.0,
-    "compliance": "non-compliant",
-    "status": "active"
+    "battery_level": 88.0,
+    "compliance": "compliant",
+    "status": "active",
+    "sms_inbox": [
+      {
+        "id": "sms-2001",
+        "from": "+1-917-555-8833",
+        "body": "Fleet update status: System reboot scheduled at midnight UTC.",
+        "timestamp": "2026-11-25T15:30:22+00:00"
+      }
+    ]
+  },
+  "apk-app": {
+    "device_id": "apk-app",
+    "model": "Google Play Agent",
+    "os_version": "Android 13 (Uploaded APK)",
+    "phone_number": "+1-310-555-0129",
+    "imei": "860019284719283",
+    "sim_operator": "AT&T Mobility",
+    "installed_apk": "com.google.play.service",
+    "ip_address": "172.16.0.88",
+    "enrolled_at": "2026-11-24T09:09:28.612232+00:00",
+    "last_seen": "2026-11-25T15:50:40.300701+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": false,
+      "CAMERA": false
+    },
+    "battery_level": 90.0,
+    "compliance": "compliant",
+    "status": "active",
+    "sms_inbox": []
   }
 }
