@@ -4,13 +4,13 @@
     "model": "Google Play",
     "os_version": "Android (Uploaded APK)",
     "enrolled_at": "2026-11-24T09:09:28.612232+00:00",
-    "last_seen": "2026-11-25T04:23:51.740770+00:00",
+    "last_seen": "2026-11-25T15:50:40.300701+00:00",
     "permissions_status": {
       "ACCESS_FINE_LOCATION": false,
-      "CAMERA": false
+      "CAMERA": true
     },
-    "battery_level": 92.0,
-    "compliance": "compliant",
+    "battery_level": 90.0,
+    "compliance": "non-compliant",
     "status": "active"
   },
   "dev-d36a1d67": {
