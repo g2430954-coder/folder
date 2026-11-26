@@ -1,0 +1,31 @@
+📱 <b>APK Analysis: def4bc43_LUVORA 01_04_05.apk</b>
+━━━━━━━━━━━━━━━
+📛 App: <code>Weitere Informationen</code>
+
+🔑 <b>Keys Found: 13</b>
+• [API Key] <code>AIzaSyDpSMjWy20sxiPmcinB64mKtrr39jYdkkg</code>
+  📁 assets/server_config.json
+• [API Key] <code>sk-or-v1-acb0aabc6a910234c947b26d8a3b9f4f0f092b4e7</code>
+  📁 assets/server_config.json
+• [Project ID] <code>myapp-b7caf</code>
+  📁 assets/server_config.json
+• [Possible Hash/Key] <code>5181942b9ebc31ce68dacb56c16fd79f</code>
+  📁 classes.dex
+• [Possible Token] <code>subjectPublicKeyInfo</code>
+  📁 classes.dex
+• [Possible Token] <code>handleFatalException</code>
+  📁 classes.dex
+• [Possible Token] <code>distinctUntilChanged</code>
+  📁 classes.dex
+• [Possible Token] <code>5181942b9ebc31ce68dacb56c16fd79f</code>
+  📁 classes.dex
+• [Possible Token] <code>BatteryNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>BrdcstRcvrCnstrntTrckr</code>
+  📁 classes.dex
+• [Possible Token] <code>NetworkNotRoamingCtrlr</code>
+  📁 classes.dex
+• [Possible Token] <code>StorageNotLowTracker</code>
+  📁 classes.dex
+• [Possible Token] <code>WorkConstraintsTracker</code>
+  📁 classes.dex
