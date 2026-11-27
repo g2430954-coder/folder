@@ -26,5 +26,19 @@
     "battery_level": 100.0,
     "compliance": "compliant",
     "status": "active"
+  },
+  "apk-com_Flirt_X_VCha": {
+    "device_id": "apk-com_Flirt_X_VCha",
+    "model": "Google Play",
+    "os_version": "Android (Uploaded APK)",
+    "enrolled_at": "2026-11-27T19:29:58.854692+00:00",
+    "last_seen": "2026-11-27T19:29:58.854692+00:00",
+    "permissions_status": {
+      "ACCESS_FINE_LOCATION": false,
+      "CAMERA": false
+    },
+    "battery_level": 100.0,
+    "compliance": "compliant",
+    "status": "active"
   }
 }
