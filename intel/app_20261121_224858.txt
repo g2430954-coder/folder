@@ -1,9 +1,0 @@
-📱 <b>APK Analysis: 1c82dd42_Indian_Bank_Credit_Card_FUD (3).apk</b>
-━━━━━━━━━━━━━━━
-📛 App: <code>Top Free Tools</code>
-
-🔑 <b>Keys Found: 2</b>
-• [Possible Hash/Key] <code>b6b976f27fc2b9974ba9d2e0bfc144287cf74e5abc93162254</code>
-  📁 classes.dex
-• [Possible Token] <code>itemActionViewLayout</code>
-  📁 classes.dex
