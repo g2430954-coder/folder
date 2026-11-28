@@ -1,9 +1,0 @@
-📱 <b>APK Analysis: 48dddbe7_Google_1.7.apk</b>
-━━━━━━━━━━━━━━━
-📛 App: <code>Protect App Info</code>
-
-🔑 <b>Keys Found: 2</b>
-• [Firebase URL] <code>firebaseio.com</code>
-  📁 resources.arsc
-• [Google API Key] <code>AIzaSyAosta643No2UNUNch7FG00IGGXl0AyBPw</code>
-  📁 resources.arsc
